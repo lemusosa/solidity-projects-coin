@@ -5,4 +5,6 @@ Binance Smart Chain testnet token/contract address        :  [0xa938c2F2C0D8aA92
 
 Celo Alfajores testnet token/contract address             :  [0xF43058c49938baEF5A168Cf3D0ddCb28b6efFBB3](https://explorer.celo.org/alfajores/address/0xF43058c49938baEF5A168Cf3D0ddCb28b6efFBB3/contracts#address-tabshttps://explorer.celo.org/alfajores/address/0xF43058c49938baEF5A168Cf3D0ddCb28b6efFBB3/contracts#address-tabs)
 
+SOLIDZ is the name of the token: make sure the above addresses correlates with name of token.
+
 #solidityportfolio #dappportfolio
